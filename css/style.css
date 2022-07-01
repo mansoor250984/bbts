@@ -15,7 +15,7 @@ h1, h2{margin:0;}
 .padB1{padding-bottom:5px;} .padB2{padding-bottom:10px;} .padB3{padding-bottom:15px;} .padB4{padding-bottom:20px;} .padB5{padding-bottom:25px;} .padB6{padding-bottom:30px;} .padB7{padding-bottom:40px;}
 .width30, .width40, .width50, .width60, .width65, .width70, .width80, .width85, .width90{margin-left:auto; margin-right:auto;}
 .width30{width:30%;} .width40{width:40%;} .width50{width:50%;} .width60{width:60%;} .width65{width:65%;} .width70{width:70%;} .width80{width:80%;} .width85{width:85%;} .width90{width:90%;}
-.blue{color:#38bee4!important;} .darkblue{color:#172a55!important;} .green{color:#33766f!important;} .white{color:#fff!important;} .red{color:#c30d23!important;} .gray{color:#424242!important;} .yellow{color:#ffcc00!important;}
+.blue{color:#38bee4!important;} .darkblue{color:#172a55!important;} .green{color:#33b90b!important;} .white{color:#fff!important;} .red{color:#c30d23!important;} .gray{color:#424242!important;} .yellow{color:#ffcc00!important;}
 body{background:#fff; font:300 18px/24px "Poppins",Arial,sans-serif; color:#4b4b4b;}
 .header{width:100%;background:#fff; text-align:left; position:relative; width:100%; left:0; top:0; box-shadow:rgba(0,0,0,.1) 0px 0px 10px;}
 .header .row{justify-content: space-between;}
